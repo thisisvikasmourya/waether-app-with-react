@@ -40,7 +40,7 @@ function App() {
 <center>
 
   <div className="location-box">
-    <h3 className="location1 text1">Check weather of any city or country in the world</h3>
+    <h6 className="location1 text1">Check weather </h6>
   </div>
   &nbsp;&nbsp;&nbsp;
           <input 
